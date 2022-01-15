@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/45799db8-b1f8-4627-9264-2c8d4c352567.svg)](https://wakatime.com/@45799db8-b1f8-4627-9264-2c8d4c352567)
+
 <!--
 **IldarGaleev/IldarGaleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
