@@ -5,7 +5,7 @@
 
 ## Used in my projects
 
-[![Python](https://img.shields.io/badge/python_⭐️-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
 [![JS](https://img.shields.io/badge/java_script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
@@ -22,6 +22,9 @@
 [![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api)
 [![TON API](https://img.shields.io/badge/TON_API-0098EA?style=for-the-badge&logo=ton&logoColor=white)](https://tonapi.io/)
 [![MikrotikAPI](https://img.shields.io/badge/Mikrotik_API-293239?style=for-the-badge&logo=mikrotik)](https://help.mikrotik.com/docs/display/ROS/API)
+
+## Learn
+[![GO](https://img.shields.io/badge/GO-512BD4?style=for-the-badge&logo=go)](https://go.dev/)
 
 
 ## IDE`s
