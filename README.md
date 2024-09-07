@@ -5,6 +5,7 @@
 
 ## Used in my projects
 
+[![GO](https://img.shields.io/badge/GO-512BD4?style=for-the-badge&logo=go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
 [![JS](https://img.shields.io/badge/java_script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -23,15 +24,13 @@
 [![TON API](https://img.shields.io/badge/TON_API-0098EA?style=for-the-badge&logo=ton&logoColor=white)](https://tonapi.io/)
 [![MikrotikAPI](https://img.shields.io/badge/Mikrotik_API-293239?style=for-the-badge&logo=mikrotik)](https://help.mikrotik.com/docs/display/ROS/API)
 
-## Learn
-[![GO](https://img.shields.io/badge/GO-512BD4?style=for-the-badge&logo=go)](https://go.dev/)
-
 
 ## IDE`s
 
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/ru/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![PYCharm](https://img.shields.io/badge/PYCharm-000000?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/ru-ru/pycharm/)
+[![GOLand](https://img.shields.io/badge/GOLand-000000?style=for-the-badge&logo=goland)](https://www.jetbrains.com/ru-ru/go/)
 
 ## For fun!..
 
